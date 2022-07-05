@@ -4,6 +4,8 @@ component for live audio commentaries
 
 <img src="captures/screen1.png" width="40%" /> <img src="captures/screen2.png" width="40%" />
 
+[![](https://jitpack.io/v/alvitres01/gb_vision_player_android.svg)](https://jitpack.io/#alvitres01/gb_vision_player_android)
+
 ## Installation
 
 
