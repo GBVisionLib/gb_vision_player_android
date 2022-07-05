@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="media_url">https://livesportradio.com/global/livescore/playlist.m3u8</string>
+    <string name="stop_audio_commentary">Stop audio commentary</string>
+    <string name="play_audio_commentary">Play audio commentary</string>
+</resources>
