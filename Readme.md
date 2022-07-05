@@ -1,4 +1,3 @@
-[![](https://jitpack.io/v/alvitres01/gb_vision_player_android.svg)](https://jitpack.io/#alvitres01/gb_vision_player_android)
 
 # gb vision player
 component for live audio commentaries
