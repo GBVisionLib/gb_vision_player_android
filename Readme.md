@@ -1,6 +1,18 @@
+[![](https://jitpack.io/v/alvitres01/gb_vision_player_android.svg)](https://jitpack.io/#alvitres01/gb_vision_player_android)
+
 # gb vision player
 component for live audio commentaries
+
 <img src="captures/screen1.png" width="40%" /> <img src="captures/screen2.png" width="40%" />
+
+## Installation
+
+
+```jitpack
+dependencies {
+	  implementation 'com.github.alvitres01:gb_vision_player_android:Release'
+}
+```
 
 ## How to use
 
