@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="GbVisionPlayer">
+        <attr name="gbBackgroundColor" format="color"/>
+        <attr name="gbTextColor" format="color"/>
+        <attr name="gbTitleOn" format="string"/>
+        <attr name="gbTitleOff" format="string"/>
+        <attr name="url" format="string"/>
+    </declare-styleable>
+</resources>

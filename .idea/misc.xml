@@ -3,7 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/admin/Desktop/GbVisionPlayer/app/src/main/res/layout/activity_main.xml" value="0.67" />
+        <entry key="..\:/Users/admin/Desktop/GbVisionPlayer/app/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="..\:/Users/admin/Desktop/GbVisionPlayer/gb vision player/src/main/res/drawable/ic_pause.xml" value="0.5235" />
         <entry key="..\:/Users/admin/Desktop/GbVisionPlayer/gb vision player/src/main/res/drawable/ic_play.xml" value="0.5235" />
         <entry key="..\:/Users/admin/Desktop/GbVisionPlayer/gb vision player/src/main/res/drawable/main_shape.xml" value="0.5235" />
@@ -13,6 +13,11 @@
         <entry key="..\:/Users/admin/Desktop/GbVisionPlayer/gb vision player/src/main/res/layout/gb_vision_player_controller_preview.xml" value="0.55" />
         <entry key="..\:/Users/admin/Desktop/GbVisionPlayer/gb vision player/src/main/res/layout/gb_vision_player_main.xml" value="0.55" />
         <entry key="..\:/Users/admin/Desktop/GbVisionPlayer/gb vision player/src/main/res/layout/gb_vision_player_main_preview.xml" value="0.55" />
+        <entry key="..\:/Users/admin/Desktop/GbVisionPlayer/gb_vision_player/src/main/res/drawable/main_shape.xml" value="0.5435" />
+        <entry key="..\:/Users/admin/Desktop/GbVisionPlayer/gb_vision_player/src/main/res/drawable/main_shape_preview.xml" value="0.314" />
+        <entry key="..\:/Users/admin/Desktop/GbVisionPlayer/gb_vision_player/src/main/res/layout/gb_vision_player_controller.xml" value="0.5458333333333333" />
+        <entry key="..\:/Users/admin/Desktop/GbVisionPlayer/gb_vision_player/src/main/res/layout/gb_vision_player_controller_preview.xml" value="0.5458333333333333" />
+        <entry key="..\:/Users/admin/Desktop/GbVisionPlayer/gb_vision_player/src/main/res/layout/gb_vision_player_main.xml" value="0.30833333333333335" />
       </map>
     </option>
   </component>

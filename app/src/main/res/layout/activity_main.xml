@@ -3,13 +3,21 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:background="@color/white"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+
+
     <com.gbvision.player.GbVisionPlayer
         android:id="@+id/player"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        app:gbTitleOff="@string/play_audio_commentary"
+        app:gbTitleOn="@string/stop_audio_commentary"
+        app:gbTextColor="@color/color_white"
+        app:gbBackgroundColor="@color/color_main"
+        />
 
 </LinearLayout>
