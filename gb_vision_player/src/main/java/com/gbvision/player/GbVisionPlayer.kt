@@ -105,6 +105,9 @@ class GbVisionPlayer(context: Context, attrs: AttributeSet) : LinearLayout(conte
                 titleOn
             }
             binding.videoView.findViewById<LinearLayout>(R.id.llBg).background.setTint(backgroundColor!!)
+            binding.videoView.findViewById<LinearLayout>(R.id.llBg).setOnClickListener {
+                player.playWhenReady = !player.isPlaying
+            }
             textView.setTextColor(textColor!!)
         }
     }
